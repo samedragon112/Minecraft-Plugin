@@ -1,0 +1,5 @@
+name: Minigames Plugin
+main: me.mbaum.core
+version: 0.1
+api-version: 1.12.2
+commands:
